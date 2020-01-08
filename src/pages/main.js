@@ -9,7 +9,7 @@ export default class Main extends Component{
   render(){
     return(
       <View>
-        <Text>Hello World</Text>
+        <Text>Paloma da o cu </Text>
       </View>
     )
   }
